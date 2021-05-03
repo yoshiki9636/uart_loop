@@ -1,4 +1,13 @@
-// Tang Premier UART interface by yoshiki9636
+// Tang Primer UART interface by yoshiki9636
+/*
+ * UART Loop Example
+ *   UART Interface Module for Tang Primer
+ *    Verilog code
+ * @auther		Yoshiki Kurokawa <yoshiki.k963@gmail.com>
+ * @copylight	2020 Yoshiki Kurokawa
+ * @license		https://opensource.org/licenses/MIT     MIT license
+ * @version		0.1
+ */
 
 module uart_if(
 	input clk,

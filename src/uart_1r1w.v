@@ -1,4 +1,13 @@
-// Tang Premier UART memory by yoshiki9636
+// Tang Primer UART memory by yoshiki9636
+/*
+ * UART Loop Example
+ *   UART RAM Module for Tang Primer
+ *    Verilog code
+ * @auther		Yoshiki Kurokawa <yoshiki.k963@gmail.com>
+ * @copylight	2020 Yoshiki Kurokawa
+ * @license		https://opensource.org/licenses/MIT     MIT license
+ * @version		0.1
+ */
 
 module uart_1r1w(
 	input clk,

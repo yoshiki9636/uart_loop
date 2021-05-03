@@ -1,4 +1,13 @@
-// Tang Premier UART loopback by yoshiki9636
+// Tang Primer UART loopback by yoshiki9636
+/*
+ * UART Loop Example
+ *   UART Loop Module for Tang Primer
+ *    Verilog code
+ * @auther		Yoshiki Kurokawa <yoshiki.k963@gmail.com>
+ * @copylight	2020 Yoshiki Kurokawa
+ * @license		https://opensource.org/licenses/MIT     MIT license
+ * @version		0.1
+ */
 
 module uart_loop (
     input clk,
